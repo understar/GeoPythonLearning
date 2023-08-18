@@ -1,1 +1,5 @@
 /.venv
+.ipynb_checkpoints
+.DS_Store
+/L6
+Kumpula-June-2016-w-metadata.txt
